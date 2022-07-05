@@ -51,7 +51,16 @@ h1 span {
 }
 
 .half-width img {
-    width: 100%
+    width: 100%;
+    border-radius: 165px;
+}
+
+.down-img {
+    background-color: #FF3987;
+}
+
+.up-img {
+    background-color: tomato;
 }
 
 p {
