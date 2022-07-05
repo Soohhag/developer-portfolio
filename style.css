@@ -68,6 +68,18 @@ p {
 
 }
 
+.dream-area {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.experience-area {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
 .experience-area div {
     box-shadow: 5px 5px 40px gray;
     height: 80%;
