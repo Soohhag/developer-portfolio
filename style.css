@@ -116,3 +116,7 @@ p {
     text-align: justify;
     padding-right: 20px;
 }
+
+footer p {
+    text-align: center;
+}
