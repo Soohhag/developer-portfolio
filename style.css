@@ -50,17 +50,18 @@ h1 span {
     font-weight: 400;
 }
 
-.half-width img {
+
+
+.half-width .down-img {
+    background-color: #FF3987;
     width: 100%;
     border-radius: 200px;
 }
 
-.down-img {
-    background-color: #FF3987;
-}
-
-.up-img {
+.half-width .up-img {
     background-color: tomato;
+    width: 100%;
+    border-radius: 200px;
 }
 
 p {
